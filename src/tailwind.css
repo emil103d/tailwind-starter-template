@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  p {
+    font-family: "Sora", sans-serif;
+  }
+  h3 {
+    font-family: "poppins", sans-serif;
+  }
+}
